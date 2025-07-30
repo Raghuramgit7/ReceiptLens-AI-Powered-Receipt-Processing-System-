@@ -31,15 +31,23 @@ ReceiptLens is an AI-powered web application for extracting, organizing, and ana
 
 ---
 
-## 📸 Screenshots
+# Installation Guide for ReceiptLens – AI-Powered Receipt Processing System
 
-<!-- Paste screenshot links or drag images here -->
+This document guides you through installing and running the ReceiptLens application locally.
 
 ---
 
-## 🔧 Installation
+## Prerequisites
 
-### 1. Clone the Repository
+- **Python 3.8+**
+- **Node.js 16+** and **npm** (for frontend)
+- **PostgreSQL** (or SQLite for development)
+- **Google Cloud account** with Vision API enabled (optional, but recommended)
+- **Git**
+
+---
+
+## 1. Clone the Repository
 
 ```bash
 git clone git@github.com:Raghuramgit7/ReceiptLens-AI-Powered-Receipt-Processing-System-.git
